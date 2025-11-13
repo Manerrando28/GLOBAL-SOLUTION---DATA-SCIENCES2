@@ -115,8 +115,8 @@ O projeto evidencia o potencial das técnicas de machine learning para gerar ins
 
 ## 👤 Autor
 
-**Gabriel Leste**  
-RM: 558638
+
+**Gabriel Leste**  RM: 558638
 **Vitor Rivas** 
 RM: 556404
 **Otavio Santos** 
